@@ -3,7 +3,8 @@ Liste des raccourcis clavier pour jouer a warcraft 3 reforged en mode grille AZE
 
 ## Utilisation des raccourcis perso
 Il suffit de placer le fichier dans le répertoire:  
-> C:\Users\<utilisateur>\Documents\Warcraft III\CustomKeyBindings\CustomKeys.txt  
+
+```C:\Users\<utilisateur>\Documents\Warcraft III\CustomKeyBindings\CustomKeys.txt```
 
 *Le lecteur "C:" peux varier en fonction de la localisation de l'environnement utilisateur Windows*
 
